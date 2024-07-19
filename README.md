@@ -1,2 +1,2 @@
-# CSharp-Projects
+# .NET-Projects
 .NET Projects Collection
